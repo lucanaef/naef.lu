@@ -73,5 +73,5 @@ ul li {
 }
 
 ul li+li::before {
-	content: " | ";
+	content: " · ";
 }
